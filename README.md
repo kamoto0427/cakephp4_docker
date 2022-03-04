@@ -5,4 +5,4 @@ docker-compose up -d
 root@c537c68c1793:/var/www#
 
 ## cakePHP4をインストール  
-/var/www# composer create-project --prefer-dist cakephp/app:4.*
+/var/www# composer create-project --prefer-dist cakephp/app:4.* html
